@@ -30,30 +30,59 @@ This is how your insert images into your Markdown documents:
 
 You can use bullet points and lists, or full paragraphs, or a combo, whichever is appropriate. The writing should be solid draft quality but doesn't have to be fancy.
 
+
 **No sketches are required for Milestone 1.**
 
 ### Website Topic (Milestone 1)
 > Briefly explain what your website will be about.
 
-Example: (delete this) My website will be about the Grassroots festival in Trumansburg NY.
+My website will be focused on my passion for crocheting! I'd like to display
+
+* Previous Projects
+* Works in progress
+* Patterns I've designed
+* Contact information
 
 
 ### Audience (Milestone 1)
 > Briefly explain who the intended audience(s) is for your website. Be specific and justify why this audience is appropriate for your site's topic.
 
-TODO
+The intended audiences for my website will be
+
+* __Avid Crocheters:__ This audience would visit my website to find inspiration for new crochet projects.
+* __Potential Customers:__ Potential customers would look at my website to see whether they would want to commission a project from me and find contact details in order to order something.
 
 
 ### Final Content (Milestone 1)
 > Briefly describe the content you plan to include in the final site, and why it's the right content for your audiences.
 
-TODO
+Previously, I outlined what I wanted to display and now I'll expand upon that.
+
+* __Previous Projects:__ This would show images, descriptions, materials, and links to patterns of previous crochet projects I've made.
+  * Avid crocheters could use these projects as inspiration or to find patterns.
+  * Potential customers would use these to see if they like my work and decide whether they would be interesting in commissioning a project.
+* __Works in progress:__ This content would be updates on my current project: images and my thoughts on the project.
+  * This content would be relevant for avid crocheters as they could relate to this content and may benefit from knowing how difficult or challenging I find it.
+  * This content may not be as particularly relevant for potential customers.
+* __Patterns I've designed:__ I would include links to pdfs of patterns that I have created.
+  * Avid crocheters may be interested in using these patterns for their own projects.
+  * Potential customers would find these patterns relevant as they could see designs that I am adept at and could make.
+* __Contact information:__ This would be my email address.
+  * This content wouldn't be relevant for avid crocheters.
+  * This content would be relevant for potential customers, as they would need this to place a commission.
+
 
 
 ### Home Page Content (Milestone 1)
 > Briefly identify what content you will include on the homepage and why this content should be the first thing your target audience sees when they visit your site.
 
-TODO
+On the homepage, I would like the content to be sparse, not overwhelming.
+* __Title:__ This is important as the target audience should know the name of the website they are on.
+* __Contact information:__ This should be easily accessible on the front page, so that the target audience can find it without difficulty.
+* __Image of crochet project:__ An image of a crochet project should be the first thing my target audience sees, as this is the main theme of the website. It should be clear to the user what the website is about.
+* __Introduction:__ An introduction to the purpose of the website is important, to make it clear to the audience what the website is about.
+* __Navigation Panel:__ This would be one of the first things that the target audience sees, so that they have a clear way to access the other pages on the website.
+
 
 
 ## Information Architecture
