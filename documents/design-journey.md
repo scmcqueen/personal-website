@@ -36,21 +36,15 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 ### Website Topic (Milestone 1)
 > Briefly explain what your website will be about.
 
-My website will be focused on my passion for crocheting! I'd like to display
-
-* Previous Projects
-* Works in progress
-* Patterns I've designed
-* Contact information
+This will be my professional website, with my professional experience, hobbies and contact information. Employers
+will be able to look at this website to learn more about my career and interests. This will be helpful when I am applying to new positions, as they will see that I am competent at using technology and branding myself.
 
 
 ### Audience (Milestone 1)
 > Briefly explain who the intended audience(s) is for your website. Be specific and justify why this audience is appropriate for your site's topic.
 
-The intended audiences for my website will be
+__Potential Employers__ looking to hire a consultant are the audience for my website. This audience is appropriate as the website will be about my professional career and potential employers would be interested in that information.
 
-* __Avid Crocheters:__ This audience would visit my website to find inspiration for new crochet projects.
-* __Potential Customers:__ Potential customers would look at my website to see whether they would want to commission a project from me and find contact details in order to order something.
 
 
 ### Final Content (Milestone 1)
@@ -58,18 +52,10 @@ The intended audiences for my website will be
 
 Previously, I outlined what I wanted to display and now I'll expand upon that.
 
-* __Previous Projects:__ This would show images, descriptions, materials, and links to patterns of previous crochet projects I've made.
-  * Avid crocheters could use these projects as inspiration or to find patterns.
-  * Potential customers would use these to see if they like my work and decide whether they would be interesting in commissioning a project.
-* __Works in progress:__ This content would be updates on my current project: images and my thoughts on the project.
-  * This content would be relevant for avid crocheters as they could relate to this content and may benefit from knowing how difficult or challenging I find it.
-  * This content may not be as particularly relevant for potential customers.
-* __Patterns I've designed:__ I would include links to pdfs of patterns that I have created.
-  * Avid crocheters may be interested in using these patterns for their own projects.
-  * Potential customers would find these patterns relevant as they could see designs that I am adept at and could make.
-* __Contact information:__ This would be my email address.
-  * This content wouldn't be relevant for avid crocheters.
-  * This content would be relevant for potential customers, as they would need this to place a commission.
+* __Professional experience:__ This would be the most up to date content on my resume, such as college, past jobs, project experience. This would be relevant fo my audience as potential employers would want to see this information to see if I could be a good fit for their company.
+* __Hobbies:__ Most resumes have a hobbies section, as this gives the candidate some humanity as well as something to talk about with their interviewer/recruiter. I will include some of mine, so that potential employers could see what I'm about as a person and get to know me holistically.
+* __Contact information:__ This would be my email address and a link to my linkedin. This is relevant for my audience so that they know how to get in touch with me.
+
 
 
 
@@ -77,11 +63,10 @@ Previously, I outlined what I wanted to display and now I'll expand upon that.
 > Briefly identify what content you will include on the homepage and why this content should be the first thing your target audience sees when they visit your site.
 
 On the homepage, I would like the content to be sparse, not overwhelming.
-* __Title:__ This is important as the target audience should know the name of the website they are on.
+* __Title/My Name:__ This is important as the target audience should know the name of the website they are on.
 * __Contact information:__ This should be easily accessible on the front page, so that the target audience can find it without difficulty.
-* __Image of crochet project:__ An image of a crochet project should be the first thing my target audience sees, as this is the main theme of the website. It should be clear to the user what the website is about.
-* __Introduction:__ An introduction to the purpose of the website is important, to make it clear to the audience what the website is about.
-* __Navigation Panel:__ This would be one of the first things that the target audience sees, so that they have a clear way to access the other pages on the website.
+* __Image:__ This would be an image of me, so that the audience can make the connection between my name and face.
+* __Introduction:__ This would be a brief introduction to who I am and what my professional interests are, so that the audience knows what the web page is about and why it is useful.
 
 
 
@@ -96,19 +81,34 @@ Each section is probably around 1 reasonably sized paragraph (2-4 sentences).
 ### Audience (Milestone 2)
 > A clearer description of audience: who are they, what are they interested in with respect to this site, and what are the design goals for that audience.
 
-TODO
+My audience is specifically recruiters/hiring team for consulting firms. They would be interested in my website as I would be a potential candidate for them to hire. The design goals for this audience are easy to navigate, easy to read, contains relevant information about my career and professional interests, and has my contact information easily accessible.
 
 ### Organization & Navigation (Milestone 2)
 > A description of how you generated and considered alternatives for the site's content organization and navigation. You are required to include images here of your card sorting for determining the organization of content and the navigation.
 
 > Thoroughly document this process. The _process_ is the important part of this assignment, not the final result.]
 
-TODO
+![My first attempt at cardsorting, listing all of the elements](cs1.png)
+
+![My second attempt at cardsorting and organizing](cs2.png)
+
+![My third attempt at cardsorting, changing the titles of the groups](cs3.png)
+
+
+
+First, I wrote out all of the possible information I would want to include on my website. I had a lot of ideas so it was messy! Then, I organized them into broad groups. I then tried to title the groups. I ended up re-evaluating my titles and then changing the groups as well. I ended up with Hobbies, Resumé, Background Info, and Contact. Then, I cut down some of the groups, as there were too many ideas and too much content. My final card sorting was the groups shown below.
+
+![My final card sorting, with deleting unneccessary elements. ](finalcardsort.png)
 
 ### Final Organization and Navigation (Milestone 2)
 > Explain how the final organization of content and navigation is appropriate for your target audiences.
 
-TODO
+I have organized my content into 3 pages: Home page, Professional Experience, and Hobbies. My contact info will be on the bottom of all three pages, so that the audience can easily access it.
+
+* My Home Page will have my headshot and an introduction to who I am and what I do. This is appropriate as it is the first thing that a recruiter would want to see when entering a website.
+* My Hobbies Page will show my volunteering information, a blurb about what I do for fun, and some pictures of hiking. This is relevant for the audience of recruiters so that they can see whether or not I would be a good fit for the company culture. This will also be helpful for seeing my values.
+* My Professional Information Page will have information about my college experience and work experiences. It will also have a link to my resume and a blurb about my current position. This is relevant for recruiters as they would help them see my qualifications and whether I was fit for a certain position. 
+
 
 
 ## Visual Design
