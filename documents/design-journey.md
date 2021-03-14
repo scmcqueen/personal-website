@@ -107,7 +107,7 @@ I have organized my content into 3 pages: Home page, Professional Experience, an
 
 * My Home Page will have my headshot and an introduction to who I am and what I do. This is appropriate as it is the first thing that a recruiter would want to see when entering a website.
 * My Hobbies Page will show my volunteering information, a blurb about what I do for fun, and some pictures of hiking. This is relevant for the audience of recruiters so that they can see whether or not I would be a good fit for the company culture. This will also be helpful for seeing my values.
-* My Professional Information Page will have information about my college experience and work experiences. It will also have a link to my resume and a blurb about my current position. This is relevant for recruiters as they would help them see my qualifications and whether I was fit for a certain position. 
+* My Professional Information Page will have information about my college experience and work experiences. It will also have a link to my resume and a blurb about my current position. This is relevant for recruiters as they would help them see my qualifications and whether I was fit for a certain position.
 
 
 
