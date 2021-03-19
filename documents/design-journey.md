@@ -122,14 +122,23 @@ Each section is probably around 1 reasonably sized paragraph (2-4 sentences).
 ### Theme Ideas (Milestone 3)
 > Discuss several ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences. Feel free to include some hand-drawn sketches (not digital drawings, not mock-ups, not wireframes, etc.) here to document your design process.
 
-TODO
+  I have a few different theme ideas for my website. One of them is a very traditionally classic professional website, with a light blue background and black or dark grey text. I would want the main, big fonts to be sans serif and the body text to be a classic serif, like Times New Roman. This is appropriate for my audience as those cool colors are professional, cool and clean. The fonts are also very professional, hence appropriate for my audience, as they are simple and classic. I also think that the blue fits my "brand" as my name is Skye(ler).
+
+  My second theme idea is a more colorful, confident, and bold, with an off-white background with multicolored text for the title (my name) and black text elsewhere. I would want the title and headers to be in bold, seventies, funky, serif font and the body in a simple, plain sans serif font like ariel. This is appropriate for my audience as it is still simple, but it is bold and would make me appear unique. The fonts are still all easy to read and hence professional, but the colors are bold and high contrast.
 
 ### Theme Design (Milestone 3)
 > Discuss your theme designs: how did you come to them, what are their strengths and weaknesses, how do they fit your overall design goals and audiences?
 
+My first blue/grey design was inspired by other professional/personal websites I've found online as well as the websites of companies I admire/would want to work for. I think the strengths of this design are the clean-ness and simplicity of the colors and fonts. All of these things fit in with my design goal of being professional, efficient, and clean.
+The biggest weakness of this design is that it is kind of boring - it doesn't stand out and isn't very bold. I would worry that it wouldn't make me very memorable and stand out. This wouldn't be beneficial to my goal of making potential recruiters and employers remember me and want to hire me.
+
+My second, colorful and funky design was inspired by a pinterest board I have and a desire to stand out! Also, I looked at one of my TA's websites, and it was much more colorful and professional. The strengths of this design are the boldness, easy to read, and memorable. It conveys some of my personality and values. This would be helpful for my audience to understand my personality, see how bold I am, and be easy to understand. One weakness would be that it might be too colorful and exciting for some more conservative companies. If this website doesn't seem professional, the audience may have reservations about hiring me.
+
 > Emotion is a big part of design. What emotions where you thinking about or trying to convey in your designs?
 
-TODO
+My blue/grey dsign is trying to evoke the feeling of being calm, organized, and professional.
+
+My colorful design is attempting to evoke the feelings of being boldness, excitement, and organized.
 
 
 ## Rationale
