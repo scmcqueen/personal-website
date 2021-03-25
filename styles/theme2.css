@@ -1,4 +1,3 @@
-/* Header object Code */
 nav ul {
   font-family: Verdana, sans-serif;
   display: flex;
@@ -23,22 +22,52 @@ nav li a:link, nav li a:visited {
   text-align:center;
 }
 
-/*elements in my navigation */
+.homl a {
+  background-color: rgb(207, 11, 117);
+  opacity: .95;
+  padding: 10px;
+}
+
+.homl a:hover {
+  color: rgb(207, 11, 117);
+  background-color: rgb(253, 253, 253);
+  opacity: .95;
+}
+
+.prol a {
+  background-color: rgb(5, 147, 66);
+  opacity: .95;
+  padding: 10px;
+}
+
+.prol a:hover {
+  color: rgb(5, 147, 66);
+  background-color: rgb(253, 253, 253);
+  opacity: .95;
+}
+
+.perl a {
+  background-color: rgb(44, 144, 215);
+  opacity: .95;
+  padding: 10px;
+}
+
+.perl a:hover {
+  color: rgb(44, 144, 215);
+  background-color: rgb(253, 253, 253);
+  opacity: .95;
+}
 
 .homl {
-  background-color: rgb(207, 11, 117);
   flex-grow: 1;
-  opacity: .95;
 }
+
 .prol {
-  background-color: rgb(5, 147, 66);
   flex-grow: 1;
-  opacity: .95;
 }
+
 .perl {
-  background-color: rgb(44, 144, 215);
   flex-grow: 1;
-  opacity: .95;
 }
 
 header {
@@ -49,16 +78,12 @@ header h2 {
   letter-spacing: .3em;
 }
 
-/* Different settings for the text types of the page  */
-
-
 body {
   background-color: rgb(253, 253, 253);
   font-size: 100%;
   font-family: Verdana, sans-serif;
   line-height: 1.4em;
 }
-
 
 h2, h3, h4 {
   font-family: Georgia, Times, serif;
@@ -83,22 +108,17 @@ h4 {
   color: rgb(5, 147, 66);
 }
 
-/* Home page formatting  */
-
- .hi {
+.hi {
+  /* Source: I created this graphic. */
   background-image: url(../images/speechbubble.png);
   background-size: 400px;
   width: 350px;
   height: 250px;
   text-align: center;
-
   padding-top: 100px;
   padding-left: 30px;
   padding-right: 20px;
-
   position: absolute;
-
-
   margin-left: 350px;
 }
 
@@ -109,51 +129,125 @@ h4 {
   height: 200px;
   padding-top: 20px;
   position: absolute;
-
-
   margin-top: 130px;
 }
 
 main {
-
-
  display: flex;
  flex-direction: column;
-
- position: relative; /*is relevant?? */
-left: 20%;
-
+ position: relative;
+ left: 20%;
 align-self:center;
-
 }
 
+ul {
+  text-align: left;
+}
 
-/* other formatting */
-ul {text-align: left;}
-
-p { margin-left: auto;
+p {
+  margin-left: auto;
   margin-right: auto;
 }
 
-p.source { font-size:75%;
-          text-align: center;
+p.source {
+  font-size:75%;
+  text-align: center;
 }
 
-address { font-family: Verdana, sans-serif;
-        font-size:80%;
-        line-height: .7em;
-        text-align: center;
+address {
+  font-family: Verdana, sans-serif;
+  font-size:80%;
+  line-height: .7em;
+  text-align: center;
 }
 
-a { font-style: normal;
+a {
+  font-style: normal;
   text-decoration: none;
 }
 
-a:link { color: rgb(5, 147, 66);
+a:link {
+  color: rgb(5, 147, 66);
 }
 
-a:visited { color: rgb(207, 11, 117);
+a:visited {
+  color: rgb(207, 11, 117);
 }
 
-address a:link{ color: rgb(44, 144, 215);
+address a:link{
+  color: rgb(44, 144, 215);
+}
+
+footer {
+  margin-bottom: 25px;
+}
+
+em {
+  font-style: normal;
+  font-family: Georgia, Times, serif;
+  text-transform: lowercase;
+  font-weight: bold;
+}
+
+em.de {
+  font-style: oblique;
+  font-family: Verdana, sans-serif;
+  font-weight: lighter;
+  text-transform: none;
+}
+
+.exp{
+  max-width: 600px;
+  min-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.exp h4 {
+  text-align: left;
+}
+
+.prof {
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.in p {
+  text-align: center;
+  max-width: 600px;
+  min-width: 400px;
+}
+
+.awm p {
+  text-align: center;
+  max-width: 1000px;
+}
+
+.awmpics {
+  display: block;
+}
+
+.awm1 p {
+  max-width: 300px;
+  text-align: left;
+  margin-left: 5px;
+}
+
+.awmads {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+}
+
+.awm1 {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.awm img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

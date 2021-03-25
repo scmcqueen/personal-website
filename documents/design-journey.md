@@ -1,29 +1,5 @@
 # Project 1: Design Journey
 
-**For each milestone, complete only the sections that are labeled with that milestone.**
-
-Be clear and concise in your writing. Bullets points are encouraged.
-
-**Everything, including images, must be visible in Markdown Preview.** If it's not visible in Markdown Preview, then we won't grade it. We won't give you partial credit either. This is your warning.
-
-
-## Markdown Instructions
-
-This is a Markdown file. All written documents that you will submit this semester will be Markdown files. Markdown is a commonly used format by developers and bloggers. It's something that you should know. Learning it is a learning outcome of this course.
-
-The following links are Markdown references:
-- <https://guides.github.com/features/mastering-markdown/>
-- <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
-
-When writing your Markdown file in Atom. Open the command palette and search for **Markdown Preview Plus: Toggle**. This will open up a panel in Atom where you can preview your formatted Markdown file. **The graders will grade you submission in Markdown Preview. All images must be visible in Markdown Preview.**
-
-This is how your insert images into your Markdown documents:
-
-![this is a text description of the image](example.png)
-
-**DELETE THIS SECTION (and example.png) BEFORE THE FINAL SUBMISSION.**
-
-
 ## Audience & Content
 
 **Make the case for your decisions using concepts from class, as well as other design principles, theories, examples, and cases from outside of class.**
@@ -88,17 +64,17 @@ My audience is specifically recruiters/hiring team for consulting firms. They wo
 
 > Thoroughly document this process. The _process_ is the important part of this assignment, not the final result.]
 
-![My first attempt at cardsorting, listing all of the elements](cs1.png)
+![My first attempt at cardsorting, listing all of the elements](cardsort/cs1.png)
 
-![My second attempt at cardsorting and organizing](cs2.png)
+![My second attempt at cardsorting and organizing](cardsort/cs2.png)
 
-![My third attempt at cardsorting, changing the titles of the groups](cs3.png)
+![My third attempt at cardsorting, changing the titles of the groups](cardsort/cs3.png)
 
 
 
 First, I wrote out all of the possible information I would want to include on my website. I had a lot of ideas so it was messy! Then, I organized them into broad groups. I then tried to title the groups. I ended up re-evaluating my titles and then changing the groups as well. I ended up with Hobbies, Resumé, Background Info, and Contact. Then, I cut down some of the groups, as there were too many ideas and too much content. My final card sorting was the groups shown below.
 
-![My final card sorting, with deleting unneccessary elements. ](finalcardsort.png)
+![My final card sorting, with deleting unneccessary elements. ](cardsort/finalcardsort.png)
 
 ### Final Organization and Navigation (Milestone 2)
 > Explain how the final organization of content and navigation is appropriate for your target audiences.
@@ -136,7 +112,7 @@ My second, colorful and funky design was inspired by a pinterest board I have an
 
 > Emotion is a big part of design. What emotions where you thinking about or trying to convey in your designs?
 
-My blue/grey dsign is trying to evoke the feeling of being calm, organized, and professional.
+My blue/grey design is trying to evoke the feeling of being calm, organized, and professional.
 
 My colorful design is attempting to evoke the feelings of being boldness, excitement, and organized.
 
@@ -156,37 +132,82 @@ Your rationale should be a polished version of the earlier explanations.
 
 > You must label each figure and provide an explanation of the sketch.
 
-![schedule page sketch version 1](example.png)
-Example: (delete this) Sketch for Schedule page (version 1). Users can see a calendar of all bands planing in the main panel. I realized that the layout for the schedule may be confusing. I think separate sections for each day will work better for my audience's needs since they can focus on the bands they want to see for that day.
+I will go through my though process for each page in my website!
 
-TODO
+![First sketch of homepage](sketches/home1.png)
+
+Above is the first sketch of my homepage, with a simple layout including a navigation bar, my name, an introduction to me, a photo of me, and my "keep in touch" section with my contact information. Everything is centered and linearly organized. The navigation stretches across the entire top of the page.
+
+![Second sketch of homepage](sketches/home2.png)
+
+I wanted to play with the location of the introduction section, which were the words "problem-solver, consultant, analyst". I thought it might look cool if I overlayed them on the image of myself. The navigation and title stayed the same.
+
+![Third sketch of homepage](sketches/home3.png)
+
+I continued to play with the location of the text and its relation to the picture. I thought about removing the background to the photo (so it just focused on me!) and putting my introduction phrases and my introductin paragraph in the white space around the image. The navigation and title stayed the same.
+
+![Fourth sketch of homepage](sketches/home4.png)
+
+The navigation bar, with all of its color, was too distracting and not clean enough when it stretched all the way across the top of the page. Hence, I changed it so that there are three equal sized boxes with the links to the otehr pages on the website. I kept my name at the top and in the center, but I relocated all of my text to one side of the backgroundless image and made the image much bigger. I wanted things to look clean and more organized than having text on both sides of the image.
+
+![Fifth sketch of homepage](sketches/home5.png)
+
+This was my final design for the homepage. I liked the navigation bar in the previous design, so I kept this in the final design. It was much less busy and easier to read than the longer navigation bar design. My name is centered, as it was before, but I also centered the three introduction-descriptors as well. I want to draw specific emphasis to those, as they are more important than the following text and let the user know who I am very quickly. I liked the image without the background, as it left more white space on the page and drew attention to the focal point of the image. I ended up adding speechbubble elements that I created in order to hold the introduction paragraph and the contact information. I wanted to organize this text into some sort of shape or element, as I felt it looked too loose and disorganized before. These speechbubble elements are also very fun and bold, which were the emotions I wanted to convey in this theme.
+
+![First sketch of professional page](sketches/pro1.png)
+
+Above is the first sketch of my professional page. I used my final navigation bar design from the homepage, with my name on the bottom. The title of the page, Professional, is centered in the middle with two columns of text beneath it: titled "Work Experience" and "Academic Experience". These each contain bullet points with details about my experience. On the bottom of the page, there is a footer titled "Keep in Touch" with my contact information.
+
+![Second sketch of professional page](sketches/pro2.png)
+
+In my second draft sketch of this page, I kept the same navigation bar and footer. I thought the previous two columns were difficult to read, as there was too much text. This layout turned the columns into rows, that are left justified and stretch across the whole screen.
+
+![Third sketch of professional page](sketches/pro3.png)
+
+This is my final layout for my professional page. The navigation bar and footer are the same as before. I centered the text and limited the width, as I  thought the larger white space made it easier to read. The bulleted list is still left justified as it looks more organized that way. The audience would find this page easy to understand and read.
+
+![First sketch of personal page](sketches/per1.png)
+
+Above is my first sketch of my personal page. I had included a centered title and a left justified image with text wrapping around it. The sketch doesn't include the second image I planned on (my hiking picture), but I had planned to also left justify and text wrap as the shwon image. The footer and navigation panel are the same as the final ones for the other pages.
+
+![Second sketch of personal page](sketches/per2.png)
+
+In the second draft, I decided to get rid of the text wrapping and add more images. A picture can speak louder than text, so I think that cutting down on words and adding more graphics makes the website look more organized. The images are organized in two columns, where the right most column has three stakced images. I also centered all of the text and the images, in order to make it easier to read. The navigation and footer are the same.
+
+![Third sketch of personal page](sketches/per3.png)
+
+My third and final layout design for the personal page is very similar to the previous one. I cut down one of the images, as I thought that having five images on one page was overwhelming. I also switched the top set of images from two columns to two rows, where the bottom row has two graphics side by side. I also limited the width of the text and centered it, to leave more white space. This makes the page more readable and look organized. The audience will find this page easy to navigate and understand.
 
 ### Audience (Final Submission)
 > A complete and polished description of the intended audience(s) for your website.
 
-TODO
+The audience for my website is potential employers, more specifically recruiters and interviewers who would be interested in hiring me. The industry I'm working in is technology consulting, so the potential employers would work for companies in the consulting field or related industries, for example the enterprise technology space. These people would be looking at my website to have an understanding of what my professional experience has been, what my professional interests are, what my academic background looks like, and my hobbies and interests. The audience will be looking to my website for a holistic view of me as person, in order to see if I would be a good fit for their company.
 
 ### Design Goals (Final Submission)
 > An explanation of the design goals for that audience, based on your earlier rationales.
 
-TODO
+The main design purpose of my website is to be an advertisement for me as an employee. In order to achieve this greater purpose, the goals for my website are to be readable and well-organized, so that my audience of potential employers can easily find relevant information about me, as well as to be bold, creative, and fun, in order to show more of my personality while also maintaining a professional look to the design. These goals aim to make a cohesive, bold, professional, and easy to read website that shares a wholistic view of my professional and personal interests.
 
 ### Navigation (Final Submission)
 > An explanation of how the final navigation met your goals and why its appropriate for your audience(s).
 
-TODO
+My final navigation bar meets all of my design goals. It is readable - the white text contrasts on the dark, bright colors of the background of each link. When the user hovers on the link element, the colors invert, which are still medium to high contrast and thus easy to read. There is also adequate padding and spacing between the colorful link elements in the navigation, which adds to the readability. The navigation is also well organized, as there are only three links and they are spaced adequately apart and inline with one and other. The organization and readability of the navigation are important for the audience, so they can easily find information. This is reflected in the titles of the pages - the home pafe is labelled as 'Home' professional as 'Professional', and personal as 'Personal'. The audience would find this appropriate as it is not difficult to find whatever information they are looking for. The colors of the navigation bar (green, pink, and blue) meet the goal of being bold. They are very fun and bright, but not overly so. This is appropriate for the audience as the colors show that I am a bold person, contributing to their holistic understanding of me as a potential employee. The font of the navigation elements contributes to the goal of being professional; the sans-serif font is easy to read, which is important for my audience, and simple.
 
 ### Organization (Final Submission)
 > An explanation of how the final organization met your goals and why its appropriate for your audience(s).
 
-TODO
+My website is organized into three pages: the home page, professional page, and personal page. This is appropriate for my audience of potential employers as they could easily find anything they are looking for, from my work experience on the professional page and my extra-curricular interests and values on my personal page. My home page is organized with my name on the top, front and center, so that the audience can see the main topic of the webpage, so that it is easy to read and organized. Then a brief introduction and a photo of me are on the home page as well, which are boldly styled in speechbubbles, contributing to the bold theme of the webpage. It has been mentioned in class that a user decides whether they stay on a webpage after only a few seconds, so this page is organized in order to show the main topic of the website quickly, in a organized, readable, and fun way.
+
+The professional page is organized with a blurb about my professional interests on top and then a list of my former positions. I wanted to include my work experience at the top of the page, as it is most relevant for my audience of potential employers. Beneath that section is my academic experience. Everything is organized with plenty of white space, in order to make it easy to read. The final page is my personal page, with information about volunteering and other hobbies. This is organized with a blurb about my volunteer experience and then some images from this experience beneath. This draws an easy connection between the blurb and the image, so it is easy to read and well organized. The audience will enjoy this as it is easy to find the personal content on the personal page and the first item on this page reflects my values. Beneath the volunteering section, there is a quick description of my other hobbies and an image of hiking. All of the content on this page is organized with plenty of white space, which makes it easy to read and find.
 
 ### Visual Design (Final Submission)
 > An explanation of how the final design met your goals and why its appropriate for your audience(s).
 
-TODO
+My final design is bold, creative, fun, and easy to read, while still being professional. The background is an off-white color, which is less painful and bright than pure white but still contrasts heavily with the black, pink, blue, and green elements. The body text is all black, sans-serif which is bold and easy to read, especially with the white background. this is appropriate for my audience as it makes parsing through the content very easy. The headers are in bright green, pink, and blue, which are bold and creative colors while also high contrast and easy to read, making it professional. My final design also has different colors for the links in the text once you've clicked on them, making it easy for the audience to see when they've clicked on something or not.
+
+All of the content on the website is centered, which makes it easy to find and read things. It also includes a lot of white space, which makes the website look clean and organized. The navigation has a hover element on the links, which inverts the color of the text and background. This is a creative and bold choice, but maintains readability. The home page has some of its body text inside of some speechbubble elements, which are fun and bold, hence appropriate for my audience because they communicate aspects of my personality.
 
 ### Self-Reflection (Final Submission)
 > What did you learn from this assignment? What are some of your strengths and weaknesses?
 
-TODO
+I learned a lot about the changing design process while building this website. My intial vision of the project evolved and changed significantly from my first time imagining the website to the final project. I also learned just how much CSS can impact the aesthetic of the website. I had previously thought that CSS was just for fonts, colors, etc and that all of the content was structured in html. I was very wrong! Seeing the difference between my two themes on my website was shocking - they both had completely different feels to them. Some of my strengths on this project were coming up with ideas for colors, design, etc and referring to resources to come up with some cool things to add to my website (such as the hover element for links). Some of my weaknesses were documenting the design process and implementing my ideas in code. It took me about 3 hours in order to figure out how to do the speechbubbles with the text on my homepage. I also wish that I had screenshotted how my website looked throughout the design process, so that I could have included those screenshots in the write up.
