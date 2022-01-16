@@ -106,13 +106,6 @@ h4 {
 
 /* index.html specific */
 
-/* personal.html specific */
-
-/* professional.html specific */
-
-/* unsorted */
-
-
 .hi {
   /* Source: I created this graphic. */
   background-image: url(../images/speechbubble.png);
@@ -123,8 +116,8 @@ h4 {
   padding-top: 100px;
   padding-left: 30px;
   padding-right: 20px;
-  position: absolute;
-  margin-left: 350px;
+  /* position: absolute;
+  margin-left: 350px; */
 }
 
 .kit {
@@ -133,8 +126,8 @@ h4 {
   width: 250px;
   height: 200px;
   padding-top: 20px;
-  position: absolute;
-  margin-top: 130px;
+  /* position: absolute;
+  margin-top: 130px; */
 }
 
 img.gradpic {
@@ -147,6 +140,16 @@ div.sky {
   margin-left: auto;
   margin-right: auto;
 }
+
+/* personal.html specific */
+
+/* professional.html specific */
+
+/* unsorted */
+
+
+
+
 
 main {
   display: flex;
