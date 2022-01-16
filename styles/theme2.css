@@ -1,3 +1,7 @@
+/* Colorful and fun CSS theme for my personal website*/
+
+/* general */
+
 nav ul {
   font-family: Verdana, sans-serif;
   display: flex;
@@ -22,52 +26,42 @@ nav li a:link, nav li a:visited {
   text-align:center;
 }
 
-.homl a {
-  background-color: rgb(207, 11, 117);
+    /* general settings for text of nav items */
+.homl a, .prol a, .perl a {
   opacity: .95;
   padding: 10px;
+}
+
+.homl a:hover, .prol a:hover, .perl a:hover { opacity: .95;
+}
+
+.homl, .prol, .perl {
+  flex-grow: 1;
+}
+
+    /* color for each nav element */
+.homl a { background-color: rgb(207, 11, 117);
+}
+
+.prol a { background-color: rgb(5, 147, 66);
+}
+
+.perl a { background-color: rgb(44, 144, 215);
 }
 
 .homl a:hover {
   color: rgb(207, 11, 117);
   background-color: rgb(253, 253, 253);
-  opacity: .95;
-}
-
-.prol a {
-  background-color: rgb(5, 147, 66);
-  opacity: .95;
-  padding: 10px;
 }
 
 .prol a:hover {
   color: rgb(5, 147, 66);
   background-color: rgb(253, 253, 253);
-  opacity: .95;
-}
-
-.perl a {
-  background-color: rgb(44, 144, 215);
-  opacity: .95;
-  padding: 10px;
 }
 
 .perl a:hover {
   color: rgb(44, 144, 215);
   background-color: rgb(253, 253, 253);
-  opacity: .95;
-}
-
-.homl {
-  flex-grow: 1;
-}
-
-.prol {
-  flex-grow: 1;
-}
-
-.perl {
-  flex-grow: 1;
 }
 
 header {
@@ -83,6 +77,8 @@ body {
   font-size: 100%;
   font-family: Verdana, sans-serif;
   line-height: 1.4em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h2, h3, h4 {
@@ -108,6 +104,15 @@ h4 {
   color: rgb(5, 147, 66);
 }
 
+/* index.html specific */
+
+/* personal.html specific */
+
+/* professional.html specific */
+
+/* unsorted */
+
+
 .hi {
   /* Source: I created this graphic. */
   background-image: url(../images/speechbubble.png);
@@ -132,12 +137,25 @@ h4 {
   margin-top: 130px;
 }
 
+img.gradpic {
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+}
+
+div.sky {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 main {
- display: flex;
- flex-direction: column;
- position: relative;
- left: 20%;
-align-self:center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  left: 20%;
+  align-self:center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 ul {
