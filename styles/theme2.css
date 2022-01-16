@@ -3,7 +3,7 @@
 /* general */
 
 nav ul {
-  font-family: Verdana, sans-serif;
+  font-family: 'Work Sans', sans-serif;
   display: flex;
 }
 
@@ -54,23 +54,20 @@ header {
   background-color: #F2F9FF;
 }
 
-header h2 {
-  letter-spacing: .3em;
-}
-
 body {
   background-color: #F2F9FF;
   font-size: 100%;
-  font-family: Verdana, sans-serif;
+  font-family: 'Work Sans', sans-serif;
   line-height: 1.4em;
   margin-left: auto;
   margin-right: auto;
 }
 
 h2, h3, h4 {
-  font-family: Georgia, Times, serif;
+  font-family: 'Playfair Display', serif;
   text-transform: lowercase;
   text-align: center;
+  font-weight: bolder;
 }
 
 h2 {
@@ -78,6 +75,7 @@ h2 {
   font-weight: bold;
   line-height: 1.1em;
   color: #E85D75;
+  font-style: italic;
 }
 
 h3 {
@@ -175,8 +173,6 @@ h4 {
 
 
 
-
-
 main {
   display: flex;
   flex-direction: column;
@@ -202,7 +198,7 @@ p.source {
 }
 
 address {
-  font-family: Verdana, sans-serif;
+  font-family: 'Work Sans', sans-serif;
   font-size:80%;
   line-height: .7em;
   text-align: center;
@@ -231,14 +227,14 @@ footer {
 
 em {
   font-style: normal;
-  font-family: Georgia, Times, serif;
+  font-family: 'Work Sans', sans-serif;
   text-transform: lowercase;
   font-weight: bold;
 }
 
 em.de {
   font-style: oblique;
-  font-family: Verdana, sans-serif;
+  font-family: 'Work Sans', sans-serif;
   font-weight: lighter;
   text-transform: none;
 }
