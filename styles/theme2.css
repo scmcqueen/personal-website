@@ -22,7 +22,7 @@ nav li {
 }
 
 nav li a:link, nav li a:visited {
-  color: rgb(253, 253, 253);
+  color: #F2F9FF;
   text-align:center;
 }
 
@@ -40,32 +40,18 @@ nav li a:link, nav li a:visited {
 }
 
     /* color for each nav element */
-.homl a { background-color: rgb(207, 11, 117);
+.homl a, .prol a, .perl a { background-color: #081C2D;
 }
 
-.prol a { background-color: rgb(5, 147, 66);
+
+.homl a:hover, .prol a:hover, .perl a:hover {
+  color: #081C2D;
+  background-color: #E85D75;
 }
 
-.perl a { background-color: rgb(44, 144, 215);
-}
-
-.homl a:hover {
-  color: rgb(207, 11, 117);
-  background-color: rgb(253, 253, 253);
-}
-
-.prol a:hover {
-  color: rgb(5, 147, 66);
-  background-color: rgb(253, 253, 253);
-}
-
-.perl a:hover {
-  color: rgb(44, 144, 215);
-  background-color: rgb(253, 253, 253);
-}
 
 header {
-  background-color: rgb(253, 253, 253);
+  background-color: #F2F9FF;
 }
 
 header h2 {
@@ -73,7 +59,7 @@ header h2 {
 }
 
 body {
-  background-color: rgb(253, 253, 253);
+  background-color: #F2F9FF;
   font-size: 100%;
   font-family: Verdana, sans-serif;
   line-height: 1.4em;
@@ -91,17 +77,17 @@ h2 {
   font-size: 300%;
   font-weight: bold;
   line-height: 1.1em;
-  color: rgb(207, 11, 117);
+  color: #E85D75;
 }
 
 h3 {
   font-size: 150%;
-  color: rgb(44, 144, 215);
+  color: #081C2D;
 }
 
 h4 {
   font-size: 125%;
-  color: rgb(5, 147, 66);
+  color: #525742;
 }
 
 /* index.html specific */
@@ -228,15 +214,15 @@ a {
 }
 
 a:link {
-  color: rgb(5, 147, 66);
+  color: #E85D75;
 }
 
 a:visited {
-  color: rgb(207, 11, 117);
+  color: #525742;
 }
 
 address a:link{
-  color: rgb(44, 144, 215);
+  color: #E85D75;
 }
 
 footer {
