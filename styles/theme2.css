@@ -262,7 +262,7 @@ body p {
   margin-top: 395px;
   position: absolute;
   font-size: 100%;
-
+  z-index: 9999;
 }
 
 #location {
@@ -270,6 +270,7 @@ body p {
   margin-left: 543px;
   margin-top: 420px;
   font-size: 90%;
+  z-index: 9999;
 }
 
 #glacier {
