@@ -12,6 +12,7 @@ nav {
   min-width: 400px;
   margin-left: auto;
   margin-right: auto;
+  z-index: 999;
 }
 
 nav li {
@@ -19,11 +20,17 @@ nav li {
   padding: 5px;
   margin-left: 5px;
   margin-right: 5px;
+  z-index: 999;
+}
+
+nav li a {
+  z-index: 999;
 }
 
 nav li a:link, nav li a:visited {
   color: #F2F9FF;
   text-align:center;
+  z-index: 999;
 }
 
     /* general settings for text of nav items */
