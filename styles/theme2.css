@@ -195,7 +195,7 @@ h4 {
   z-index: 999;
 }
 
-#linkedin a {
+#linkedin a, #connect a {
   color: #081C2D;
   font-weight: bold;
   text-transform: lowercase;
