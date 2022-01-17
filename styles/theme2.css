@@ -256,6 +256,22 @@ body p {
   display: flex;
 }
 
+
+#Matanuska {
+  margin-left: 540px;
+  margin-top: 395px;
+  position: absolute;
+  font-size: 100%;
+
+}
+
+#location {
+  position: absolute;
+  margin-left: 543px;
+  margin-top: 420px;
+  font-size: 90%;
+}
+
 #glacier {
   width: 700px;
   margin-left: auto;
