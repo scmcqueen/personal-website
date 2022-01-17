@@ -69,14 +69,14 @@ body {
   margin-right: auto;
 }
 
-h2, h3, h4 {
+h1, h2, h3, h4 {
   font-family: 'Playfair Display', serif;
   text-transform: lowercase;
   text-align: center;
   font-weight: bolder;
 }
 
-h2 {
+h1 {
   font-size: 300%;
   font-weight: bold;
   line-height: 1.1em;
@@ -84,13 +84,21 @@ h2 {
   font-style: italic;
 }
 
-h3 {
+h2 {
   font-size: 150%;
   color: #081C2D;
 }
 
 h4 {
   font-size: 125%;
+  color: #E85D75;
+}
+
+h3 {
+  font-size: 125%;
+  font-family: 'Playfair Display', serif;
+  text-transform: lowercase;
+  text-align: left;
   color: #1173D0;
 }
 
