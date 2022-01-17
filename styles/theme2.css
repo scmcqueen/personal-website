@@ -30,7 +30,6 @@ nav li a {
 nav li a:link, nav li a:visited {
   color: #F2F9FF;
   text-align:center;
-  z-index: 999;
 }
 
     /* general settings for text of nav items */
@@ -181,13 +180,13 @@ h4 {
   width: 340px;
   padding-top: 500px;
   padding-left: 400px;
-  z-index: 999;
+  z-index: 9999;
 }
 
 #connect {
   padding-right: 430px;
   padding-top: 720px;
-  z-index: 999;
+  z-index: 9999;
 }
 
 #linkedin {
