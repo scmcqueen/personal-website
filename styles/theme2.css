@@ -244,28 +244,6 @@ em.de {
   max-width: 1000px;
 }
 
-.awmpics {
-  display: block;
-}
-
-.awm1 p {
-  max-width: 300px;
-  text-align: left;
-  margin-left: 5px;
-}
-
-.awmads {
-  display: flex;
-  margin-left: auto;
-  margin-right: auto;
-  justify-content: center;
-}
-
-.awm1 {
-  margin-left: 10px;
-  margin-right: 10px;
-}
-
 .awm img {
   display: block;
   margin-left: auto;
