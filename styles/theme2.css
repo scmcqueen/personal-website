@@ -12,7 +12,7 @@ nav {
   min-width: 400px;
   margin-left: auto;
   margin-right: auto;
-  z-index: 999;
+  z-index: 99999;
 }
 
 nav li {
@@ -20,11 +20,11 @@ nav li {
   padding: 5px;
   margin-left: 5px;
   margin-right: 5px;
-  z-index: 999;
+  z-index: 99999;
 }
 
 nav li a {
-  z-index: 999;
+  z-index: 99999;
 }
 
 nav li a:link, nav li a:visited {
