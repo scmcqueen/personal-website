@@ -254,6 +254,7 @@ body p {
 
 #personalpic {
   display: flex;
+  align-content: center;
 }
 
 
@@ -275,7 +276,28 @@ body p {
 
 #glacier {
   width: 700px;
+  align-self: center;
+  position: absolute;
+  padding-top: 500px;
+}
+
+#personalbody {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
   margin-left: auto;
   margin-right: auto;
-  align-self: center;
+}
+
+#blurb {
+  position: absolute;
+  padding-top: 550px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#pers {
+  margin-left: auto;
+  margin-right: auto;
 }
