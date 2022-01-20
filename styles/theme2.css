@@ -290,8 +290,6 @@ body p {
 }
 
 #blurb {
-  position: absolute;
-  padding-top: 550px;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
