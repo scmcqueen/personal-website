@@ -272,27 +272,22 @@ body p {
   align-self: center;
 }
 
-#caption, #glacier, #aboutmetext {
-  flex-grow: 1;
-  position: absolute;;
-}
-
 #glacier {
   padding-top: 50px;
+  position: relative;
 }
 
 #caption {
-  padding-top: 920px;
-  padding-left: 445px;
-  z-index: 999;
+  position: absolute;
+  z-index: 2;
+  top: 475px;
+  right: 100px;
 }
 
 #aboutmetext {
-  padding-top: 1400px;
   width: 800px;
-  z-index: 9999;
 }
 
 #abme {
-  padding-top: 750px
+  padding-top: 20px
 }
