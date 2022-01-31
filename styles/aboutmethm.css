@@ -1,0 +1,26 @@
+/* CSS for my About Me Page */
+
+#caption, #glacier, #aboutmetext {
+  flex-grow: 1;
+  position: absolute;;
+}
+
+#glacier {
+  padding-top: 50px;
+}
+
+#caption {
+  padding-top: 920px;
+  padding-left: 445px;
+  z-index: 999;
+}
+
+#aboutmetext {
+  padding-top: 1400px;
+  width: 800px;
+  z-index: 9999;
+}
+
+#abme {
+  padding-top: 750px
+}
