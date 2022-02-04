@@ -1,26 +1,39 @@
 /* CSS for my About Me Page */
 
+#info {
+  display: inline-block;
+  position: relative;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
 #caption, #glacier, #aboutmetext {
-  flex-grow: 1;
-  position: absolute;;
+  align-self: center;
+
 }
 
 #glacier {
-  padding-top: 50px;
+  top: 30px;
+
 }
 
 #caption {
-  padding-top: 920px;
-  padding-left: 445px;
-  z-index: 999;
+  top: 430px;
+  right: 110px;
+  z-index: 4;
+  position: absolute;
 }
 
 #aboutmetext {
-  padding-top: 1400px;
-  width: 800px;
-  z-index: 9999;
+
 }
 
 #abme {
-  padding-top: 750px
+
 }
