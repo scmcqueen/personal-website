@@ -3,7 +3,8 @@
   <head>
     <title>S. C. McQueen - Test</title>
     <meta charset="utf-8" />
-    <link rel="stylesheet" type="text/css" href="styles/theme2.css" media="all"/>
+    <link rel="stylesheet" type="text/css" href="../styles/theme2.css" media="all"/>
+    <link rel="stylesheet" type="text/css" href="canvas.css" media="all"/>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,900&family=Work+Sans:wght@300&display=swap" rel="stylesheet">
@@ -28,6 +29,8 @@
     <meta name="twitter:image" content="images/skyelerwebheader.png">
 
     <!-- Meta Tags Generated via https://www.opengraph.xyz -->
+
+    <script src="java.js"></script>
   </head>
   <body>
     <header>
@@ -41,6 +44,23 @@
       <h2> Skyeler C. McQueen </h2>
      </header>
      <!-- Main section -->
+     <main>
+      <!-- Game pieces 253 x 449 -->
+      <div id="container">
+        <img src="images/Body.png" id="body">
+        <img src="images/Greenie.png" id="green">
+        <img src="images/Bunnie.png" id="bun">
+        <img src="images/Hattie.png" id="hat">
+      </div>
+
+      <!-- Buttons -->
+      <div id="buttons">
+        <input type="button" value="Green Fit" id="greenb" onclick="onoff('green');">
+        <input type="button" value="Hat Fit" id="hatb" onclick="onoff('hat');">
+        <input type="button" value="Bun Fit" id="bunb" onclick="onoff('bun');">
+      </div>
+
+     </main>
      <!-- Footer -->
      <footer>
        <h4>Keep in Touch</h4>
