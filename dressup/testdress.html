@@ -48,16 +48,18 @@
       <!-- Game pieces 253 x 449 -->
       <div id="container">
         <img src="images/Body.png" id="body">
-        <img src="images/Greenie.png" id="green">
-        <img src="images/Bunnie.png" id="bun">
-        <img src="images/Hattie.png" id="hat">
+        <div id="clothing">
+          <img src="images/Greenie.png" id="green">
+          <img src="images/Bunnie.png" id="bun">
+          <img src="images/Hattie.png" id="hat">
+        </div>
       </div>
 
       <!-- Buttons -->
       <div id="buttons">
-        <input type="button" value="Green Fit" id="greenb" onclick="onoff('green');">
-        <input type="button" value="Hat Fit" id="hatb" onclick="onoff('hat');">
-        <input type="button" value="Bun Fit" id="bunb" onclick="onoff('bun');">
+        <input type="button" value="Green Fit" id="greenb" onclick="toggleonoff('green');">
+        <input type="button" value="Hat Fit" id="hatb" onclick="toggleonoff('hat');">
+        <input type="button" value="Bun Fit" id="bunb" onclick="toggleonoff('bun');">
       </div>
 
      </main>

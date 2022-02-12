@@ -10,8 +10,12 @@ main {
   position: absolute;
 }
 
-#green, #hat, #bun {
+#green, #hat {
   display: none;
+}
+
+#bun {
+  display: block;
 }
 
 #body {
