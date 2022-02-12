@@ -23,10 +23,6 @@ nav li {
   z-index: 99999;
 }
 
-nav li a {
-  z-index: 99999;
-}
-
 nav li a:link, nav li a:visited {
   color: #F2F9FF;
   text-align:center;
