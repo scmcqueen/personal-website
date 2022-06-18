@@ -15,8 +15,6 @@ function toggleonoff(id) {
         child.style.display = 'none';
       }
     }
-
   }
-
 }
 
