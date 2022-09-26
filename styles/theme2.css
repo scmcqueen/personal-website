@@ -301,7 +301,8 @@ em.de {
   margin-right: auto;
 }
 
-.exp h4 {
+.exp h4,
+.exp p {
   text-align: left;
 }
 
