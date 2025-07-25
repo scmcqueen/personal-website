@@ -6,9 +6,9 @@ baseURL = "https://skyelermcqueen.com"
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
-title = "Hugo ʕ•ᴥ•ʔ Bear Blog"
-author = "Jane Doe"
-copyright = "Copyright © 2020, Jane Doe."
+title = "Skyeler's Blog"
+author = "Skyeler S. C. McQueen"
+copyright = "Copyright © 2025, Skyeler McQueen."
 languageCode = "en-US"
 
 # Generate a nice robots.txt for SEO
@@ -27,7 +27,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 
   # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
   # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
-  favicon = "images/favicon.png"
+  favicon = "images/myicon.png"
 
   # These "images" are used for the structured data templates. This will show up, when
   # services like Twitter or Slack want to generate a preview of a link to your site.
@@ -38,7 +38,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   # Another "title" :-). This one is used as the site_name on the Hugo's internal
   # opengraph structured data template.
   # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-  title = "Hugo ʕ•ᴥ•ʔ Bear"
+  title = "Skyeler's Blog"
 
   # This theme will, by default, inject a made-with-line at the bottom of the page.
   # You can turn it off, but we would really appreciate if you don’t :-).
