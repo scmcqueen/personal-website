@@ -1,7 +1,6 @@
 +++
 title = "Weddings: Are they worth it?"
 date = "2025-07-25T12:52:39-04:00"
-draft = true
 
 #
 # Set menu to "main" to add this page to
