@@ -1,14 +1,5 @@
-# Project 1
+# ARCHIVED Personal website
 
-See the course web page for Project 1's requirements.
+I started this website in 2021 as part of a school project, for my intro web design class at Cornell. It was an incredibly edifying experience and my first time ever really doing front-end (aside from customizing my old tumblr blog). I spent many years using this website and wishing that there was an easier way to do things (I really was copying and pasting the header over & over & over again). Then I took a course during my master's degree that introduced me to templating with django! I don't need a sql database so I opted to use Hugo instead, to set up a website and a blog.
 
-# Submission Instructions
-
-See the respective **submit-_milestone_.md** file for each submission.
-
-| Submission  | Instructions                       |
-| ----------- | ---------------------------------- |
-| Milestone 1 | [submit-m1.md](submit-m1.md)       |
-| Milestone 2 | [submit-m2.md](submit-m2.md)       |
-| Milestone 3 | [submit-m3.md](submit-m3.md)       |
-| Final       | [submit-FINAL.md](submit-FINAL.md) |
+This was a great learning experience! Sad to see this site go away, but also glad to have an easier & more useful personal website.
