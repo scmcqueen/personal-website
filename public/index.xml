@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Skyeler&#39;s Blog</title>
-    <link>https://skyelermcqueen.com/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content on Skyeler&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright © 2025, Skyeler McQueen.</copyright>
     <lastBuildDate>Fri, 25 Jul 2025 12:52:39 -0400</lastBuildDate>
-    <atom:link href="https://skyelermcqueen.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Weddings: Are they worth it?</title>
-      <link>https://skyelermcqueen.com/blog/posts/my-first-post/</link>
+      <link>http://localhost:1313/blog/posts/my-first-post/</link>
       <pubDate>Fri, 25 Jul 2025 12:52:39 -0400</pubDate>
-      <guid>https://skyelermcqueen.com/blog/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/blog/posts/my-first-post/</guid>
       <description>&lt;p&gt;My husband and I eloped in October of 2024, with our parents.&lt;/p&gt;&#xA;&lt;p&gt;But! We had a wedding months later in July 2025.&lt;/p&gt;</description>
     </item>
   </channel>
